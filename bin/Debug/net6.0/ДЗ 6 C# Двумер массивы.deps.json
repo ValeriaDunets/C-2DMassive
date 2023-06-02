@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ДЗ 6 C# Двумер массивы/1.0.0": {
+        "runtime": {
+          "ДЗ 6 C# Двумер массивы.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ДЗ 6 C# Двумер массивы/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/bin/Debug/net6.0/ДЗ 6 C# Двумер массивы
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/bin/Debug/net6.0/ДЗ 6 C# Двумер массивы.deps.json
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/bin/Debug/net6.0/ДЗ 6 C# Двумер массивы.runtimeconfig.json
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/bin/Debug/net6.0/ДЗ 6 C# Двумер массивы.dll
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/bin/Debug/net6.0/ДЗ 6 C# Двумер массивы.pdb
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/obj/Debug/net6.0/ДЗ 6 C# Двумер массивы.csproj.AssemblyReference.cache
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/obj/Debug/net6.0/ДЗ 6 C# Двумер массивы.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/obj/Debug/net6.0/ДЗ 6 C# Двумер массивы.AssemblyInfoInputs.cache
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/obj/Debug/net6.0/ДЗ 6 C# Двумер массивы.AssemblyInfo.cs
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/obj/Debug/net6.0/ДЗ 6 C# Двумер массивы.csproj.CoreCompileInputs.cache
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/obj/Debug/net6.0/ДЗ 6 C# Двумер массивы.dll
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/obj/Debug/net6.0/refint/ДЗ 6 C# Двумер массивы.dll
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/obj/Debug/net6.0/ДЗ 6 C# Двумер массивы.pdb
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/obj/Debug/net6.0/ДЗ 6 C# Двумер массивы.genruntimeconfig.cache
+/Users/valeriadunets/Desktop/ДЗ 6 C# Двумер массивы/obj/Debug/net6.0/ref/ДЗ 6 C# Двумер массивы.dll
